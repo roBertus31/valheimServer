@@ -27,24 +27,24 @@ As of 2022-12-06 There are 6 mods included with this pack
 - Any Portal:
   - Portal-hubs are cool looking and all. But making sure you keep straight which portal goes where can be a chore. Not anymore! Now each portal has a destination drop-down, so you can select where you want to go in an instant! Watch out though, your destination portal may not be linked back to where you came from...
 
-### I strongly encourages anyone who wishes to use this mod set to read the documentation associated with each mod before you install anything.
+### We strongly encourage anyone who wishes to use this mod set to read the documentation associated with each mod before you install anything.
 <br>
-<strong><h2>Use this mod set at your own risk. The owner of this repository cannot offer support or guidance for any error or issue that you may encounter while playing with these mods. If you do encounter an error you will need to seek support from the developers of the mods themselves.</h2></strong>
+<strong><h2>Use this mod set at your own risk. The owners of this repository cannot offer support or guidance for any error or issue that you may encounter while playing with these mods. If you do encounter an error you will need to seek support from the developers of the mods themselves.</h2></strong>
 That being said, the developers have done a really good job of keeping these mods fool-proof. As long as you look over their documentation first, it's pretty hard to mess things up. And, if you can, please offer the developers your support through their nexusmods profile. They do all of this stuff for free so any and all support you can offer, they will appreciate it!
-![Find their mod page here](https://www.nexusmods.com/)
+<a href="https://www.nexusmods.com/">Find their mod pages here</a>.
 <br>
 
 ## Installation:
-**NOTE:** The files in this repository are for a windows PC. If you are running a linux installation of Valheim, you will need to visit ![thundertore.io](https://thunderstore.io/) or ![nexusmods](https://www.nexusmods.com/) to see if different mod versions exist for your OS. 
+**NOTE:** The files in this repository are for a windows PC. If you are running a linux installation of Valheim, you will need to visit ![nexusmods](https://www.nexusmods.com/) to see if different mod versions exist for your OS. 
 
 1. In the top right of this window you'll see a green button that says "Code". Select that, and at the bottom of the drop down, select "Download ZIP"
 
-2. From steam, navigate to you library. Find Valheim and right click, then select "Manage". Then select "Browse local files". 
+2. From steam, navigate to your library. Find Valheim and right click, then select "Manage". Then select "Browse local files". 
 
 3. Extract the contents of the downloaded zip file to the Valheim local files. And that's it! You're ready to play modded Valheim.
 
 Now start up the game and all of the necessary infrastructure to run the mods is created automatically. If you want to change configurations of any of the mods in your single player game, then navigate to YourValheimGameDirectory/BepInEx/config/ and find the configuration file you want to edit. Probably make a copy of the original config file first, in case something breaks in the game after you change the config. 
 
-**Other note:** If you're playing on a server, then check with that server admin if they allow mods. Some servers do allow mods. In that case you need to have the same mod and mod versions in your local game files as what's on the server, otherwise you may get the dreaded "Incompatible version" error, or another error when you're trying to connect. 
+**Other note:** If you're playing on a server, then check with that server's admin(s) if they allow mods first. Some servers do allow mods. In that case you need to have the same mod and mod versions in your local game files as what's on the server, otherwise you may get the dreaded "Incompatible version" error, or another error when you're trying to connect. 
 
 ## Happy Exploring!
