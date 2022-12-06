@@ -27,12 +27,15 @@ As of 2022-12-06 There are 6 mods included with this pack
 - Any Portal:
   - Portal-hubs are cool looking and all. But making sure you keep straight which portal goes where can be a chore. Not anymore! Now each portal has a destination drop-down, so you can select where you want to go in an instant! Watch out though, your destination portal may not be linked back to where you came from...
 
+### I strongly encourages anyone who wishes to use this mod set to read the documentation associated with each mod before you install anything.
+<br>
+<strong><h2>Use this mod set at your own risk. The owner of this repository cannot offer support or guidance for any error or issue that you may encounter while playing with these mods. If you do encounter an error you will need to seek support from the developers of the mods themselves.</h2></strong>
+That being said, the developers have done a really good job of keeping these mods fool-proof. As long as you look over their documentation first, it's pretty hard to mess things up. And, if you can, please offer the developers your support through their nexusmods profile. They do all of this stuff for free so any and all support you can offer, they will appreciate it!
+![Find their mod page here](https://www.nexusmods.com/)
+<br>
+
 ## Installation:
 **NOTE:** The files in this repository are for a windows PC. If you are running a linux installation of Valheim, you will need to visit ![thundertore.io](https://thunderstore.io/) or ![nexusmods](https://www.nexusmods.com/) to see if different mod versions exist for your OS. 
-
-<br>
-<strong><h2>Use this mod set at your own risk. The owner of this repository cannot offer support or guidance for any error or issue that you may encounter while playing with these mods. If you do encounter an error you will need to seek support from the developers of the mods themselves.</h2></strong> 
-<br>
 
 1. In the top right of this window you'll see a green button that says "Code". Select that, and at the bottom of the drop down, select "Download ZIP"
 
