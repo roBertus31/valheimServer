@@ -35,7 +35,7 @@ That being said, the developers have done a really good job of keeping these mod
 <br>
 
 ## Installation:
-**NOTE:** The files in this repository are for a windows PC. If you are running a linux installation of Valheim, you will need to visit ![nexusmods](https://www.nexusmods.com/) to see if different mod versions exist for your OS. 
+**NOTE:** The files in this repository are for a windows PC. If you are running a linux installation of Valheim, you will need to visit <a href="https://www.nexusmods.com/">nexusmods</a> to see if different mod versions exist for your OS. 
 
 1. In the top right of this window you'll see a green button that says "Code". Select that, and at the bottom of the drop down, select "Download ZIP"
 
