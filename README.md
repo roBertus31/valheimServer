@@ -41,7 +41,7 @@ That being said, the developers have done a really good job of keeping these mod
 
 2. From steam, navigate to your library. Find Valheim and right click, then select "Manage". Then select "Browse local files". 
 
-3. Extract the contents of the downloaded zip file to the Valheim local files. And that's it! You're ready to play modded Valheim.
+3. Extract the contents of the downloaded zip file and extract it. Then copy what's inside that extracted file to your Valheim local files. And that's it! You're ready to play modded Valheim.
 
 Now start up the game and all of the necessary infrastructure to run the mods is created automatically. If you want to change configurations of any of the mods in your single player game, then navigate to YourValheimGameDirectory/BepInEx/config/ and find the configuration file you want to edit. Probably make a copy of the original config file first, in case something breaks in the game after you change the config. 
 
